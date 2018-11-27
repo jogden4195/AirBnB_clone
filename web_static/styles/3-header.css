@@ -1,5 +1,6 @@
 header {
-       background: url(../images/logo.png) no-repeat 0 0;
+       background: url(../images/logo.png) no-repeat;
+       background-position: left 20px center;
        background-color: white;
        height: 70px;
        width: 100%;
