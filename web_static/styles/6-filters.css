@@ -79,4 +79,13 @@ div.dropdown:hover div.dropdown-content {
 
 ul.popover {
        list-style: none;
+       margin: 10px 0;
+}
+
+ul {
+       list-style: none;
+}
+
+li {
+       margin: 10px 0;
 }
