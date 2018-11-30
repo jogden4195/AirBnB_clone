@@ -23,7 +23,7 @@ h2.places {
 
 h1.places {
         width: 100%;
-	font-size: 30px;
+        font-size: 30px;
         text-align: left;
 }
 
@@ -93,6 +93,10 @@ div.description {
         text-align: left;
 }
 
-div. dexcription {
+div.description p{
         margin: 0;
+}
+
+footer.new {
+	position: relative;
 }
